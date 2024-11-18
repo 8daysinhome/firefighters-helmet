@@ -2,8 +2,8 @@
  * The following code is open-source.
  * And must not be used for any commercial purposes under any circumstances.
  * The source code,authored in November 2024 with the most recent revision dated November 18,2024.
- * Is housed within the repository atrepository URL.
- * Please ensure that the placeholderrepository URLis replaced with the actual URL of the codebase repository.
+ * Is housed within the repository atrepository https://github.com/8daysinhome/firefighters-helmet.
+ * Please ensure that the placeholderrepository https://github.com/8daysinhome/firefighters-helmet is replaced with the actual URL of the codebase repository.
  * Thank you to the Arduino open-source community and DFRobot for their contributions to open-source projects.
  * Your work is greatly appreciated and has been instrumental in fostering innovation and collaboration within the maker and developer communities.
 */
